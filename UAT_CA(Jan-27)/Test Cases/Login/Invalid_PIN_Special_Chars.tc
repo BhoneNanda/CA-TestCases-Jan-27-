@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Invalid_PIN_Special_Chars</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1ad59ae6-bc88-4cda-b7bc-289a209a7701</testCaseGuid>
+</TestCaseEntity>

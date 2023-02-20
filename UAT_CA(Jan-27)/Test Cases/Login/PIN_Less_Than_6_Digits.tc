@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PIN_Less_Than_6_Digits</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bb4e1e2d-4404-4ccb-9433-5e553bbd0279</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>Note: C:\Users\User\Downloads\UAT_Jan27\Consumer-UAT (Jan-27).apk</description>
+      <initValue>'bs://f0622669e7296d4ff7e29299fd0153b3f76fb1b2'</initValue>
+      <name>LocalID</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'bhonenandakyaw_lfGvIy'</initValue>
+      <name>GlobalID</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

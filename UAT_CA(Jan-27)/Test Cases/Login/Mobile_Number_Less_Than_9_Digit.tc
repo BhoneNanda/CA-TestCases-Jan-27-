@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Mobile_Number_Less_Than_9_Digit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f0308344-36bf-4d7a-a4fd-c8b73e9cf1b2</testCaseGuid>
+</TestCaseEntity>
